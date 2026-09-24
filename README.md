@@ -1,7 +1,10 @@
 
+
 # SimHUB Peugeot 407 CAN-BUS emulator
 
 Projekt powstawał w latach 2021-2023 i jego pierwszą wersją dostępną publicznie był uruchomiony liznik z Peugeota 207. Z czasem udawało mi się coraz bardziej rozumieć komunikację CAN-BUS z licznikiem i oprócz pracy nad nowymi licznikami cały czas dodawałem poprawki do już istniejących kodów.
+
+<img width="600" height="338" alt="407_gif" src="https://github.com/user-attachments/assets/dd0b0cab-c7f0-4a87-bc22-da506cbfcffb" />
 
 
 ## Wymagany sprzęt
