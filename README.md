@@ -21,7 +21,7 @@ Wysoce zalecam wgrywać kod na Arduino przez zainstalowaną na komputerze najnow
 Uprewnij się, że Arduino jest poprawnie wykrywane przez poprzez narzędzie "Menedżer Urządzeń". Rozwiń listę "Porty COM i LPT" i zweryfikuj, czy podłączone przez Ciebie Arduino jest poprawnie wykrywane.
 
 ### 2 Wgranie bibliotek niezbędnych do kompilacji
-Otwórz folder z bibliotekami Arduino IDE (domyślnie C:\Users\Twoa_Nazwa_Uzytkownika\Documents\Arduino\libraries) i wklej tam wszystkie biblioteki zawarte folderze arduino_libraries, który znajdziesz w pobranej paczce. 
+Otwórz folder z bibliotekami Arduino IDE (domyślnie C:\Users\Twoa_Nazwa_Uzytkownika\Documents\Arduino\libraries) i wklej tam wszystkie biblioteki zawarte folderze ZIP arduino_libraries, który znajdziesz w pobranej paczce. 
 
 ### 3 Kompilacja kodu i wgranie formuły NCalc
 Skompiluj i wgraj kod na Arduino. Następnie uruchom aplikację SimHUB i przejdź do zakładki Arduino -> My Hardware. Przy pierwszym uruchomieniu wybieramy czy chcemy korzystać tylko z jednej płytki Arduino czy nasz projekt będzie oparty o więcej niż jedno arduino. Domyślnie zalecam wybrać opcję Single Arduino. Zweryfikuj czy po kilku/kilkunastu sekundach podłączy się urządzenie o nazwie MattechPC Peugeot 407 V2.0
