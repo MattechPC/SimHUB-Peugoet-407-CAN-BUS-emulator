@@ -4,7 +4,6 @@
 Projekt powstawał w latach 2021-2023 i jego pierwszą wersją dostępną publicznie był uruchomiony liznik z Peugeota 207. Z czasem udawało mi się coraz bardziej rozumieć komunikację CAN-BUS z licznikiem i oprócz pracy nad nowymi licznikami cały czas dodawałem poprawki do już istniejących kodów.
 
 
-- [Film na Youtube:](https://youtu.be/9vEeve54U)
 ## Wymagany sprzęt
 
 - Arduino Nano
