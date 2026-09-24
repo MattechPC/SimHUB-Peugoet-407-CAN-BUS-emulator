@@ -41,12 +41,19 @@ W przypadku błędu stan wyjść zmienia się na niski - dioda gaśnie. Wszytski
 
 Projekt posiada dedykowaną płytkę PCB oraz obudowę wykonaną na drukarce 3D, jej użycie jest opcjonalne. Pliki STL do obudowy znajdują się w pobranej paczce.
 PCB posiada dedykowane miejsca na diody debugujące oraz dodatkową diodę na linii zasilania 12/24V informującą o poprawnym działaniu zasilacza. Za wtykiem zasilającym znajdują się miejsca na 2 rezystory 1KΩ. Za rezystorami znajdują się 2 zworki, zalutowując zworkę przy wybranej wartości napięcia definiujemy czy dioda ma współpracować z 12V czy z 24V. 
-<img width="1062" height="1191" alt="PCB" src="https://github.com/user-attachments/assets/e14ff84d-7959-4088-9c38-ed9fc2073470" />
-<img width="1754" height="892" alt="CLUSTER_PCB" src="https://github.com/user-attachments/assets/9b8d436d-fa08-4dec-85b5-90e58b471b15" />
+<img width="500"  alt="PCB" src="https://github.com/user-attachments/assets/d57e5b0a-54e0-4246-9746-a880db800608" />
 
+<img width="500"  alt="CLUSTER_PCB" src="https://github.com/user-attachments/assets/ca604e5d-b2c8-4450-81bf-3bca33a66298" />
 
 #### ❗UWAGA❗ Niepoprawne skonfigurowanie zworki może powodować nieprawidłowe działanie diody lub nawet trwałe uszkodzenie LED'a. 
 
 W przyszłości będzie można zamówić dedykowaną płytkę PCB (zlutowaną lub do zlutowania) oraz obudowę. Na ten moment: work in progress. 
 ## Poradniki YouTube
 Stworzyłem cały poradnik jak podączyć i skonfugurować licznik. Sprawdź najnowsze materiały:
+<a href ="https://youtu.be/D8mY-5T7rYY"> <img width="640" alt="407_thumbnail" src="https://github.com/user-attachments/assets/d5760a96-43df-492e-a6d7-094b196952c6" /> </a>
+<a href ="https://youtu.be/9vEeve54UiU"> <img width="640"  alt="207_thumbnail" src="https://github.com/user-attachments/assets/ae437022-710f-490d-be79-7bb75a509cc9" /> </a>
+<a href ="https://youtu.be/mzjBLN_IS14"> <img width="640"  alt="207_update_thumbnail" src="https://github.com/user-attachments/assets/d4c24841-b09a-44ea-9b86-4edff9dcee9b" /> </a>
+<a href ="https://youtu.be/c1_7InaBueM"> <img width="640"  alt="C3_thumbnail" src="https://github.com/user-attachments/assets/c591e6a1-2948-490f-bd2a-58c332c13f18" /> </a>
+<a href ="https://youtu.be/rEvpyTjFMHs"> <img width="640"  alt="C3_update_thumbnail" src="https://github.com/user-attachments/assets/c0eb79a0-2e41-480e-ab2f-0a3e07f83af9" /> </a>
+
+
